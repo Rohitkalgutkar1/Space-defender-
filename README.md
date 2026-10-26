@@ -1,10 +1,10 @@
 # 🚀 Space Defender
 
-A space shooter game where you defend against waves of enemies. Currently in **Alpha V3**.
+A space shooter game where you defend against waves of enemies. Currently in **Alpha V2**.
 
 ▶️ **[Play it in your browser](https://rohitkalgutkar1.github.io/Spacedefender/)**
 
-📱 Android version: [Space-defender](https://github.com/Rohitkalgutkar1/Space-defender-)
+📱 Android version: [Space-defender](https://rohitkalgutkar1.github.io/Spacedefender/)
 
 ## 📸 Screenshots
 
