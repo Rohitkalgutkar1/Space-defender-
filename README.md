@@ -4,7 +4,7 @@ A space shooter game where you defend against waves of enemies. Currently in **A
 
 ▶️ **[Play it in your browser](https://rohitkalgutkar1.github.io/Spacedefender/)**
 
-📱 Android version: [Space-defender](https://github.com/Rohitkalgutkar1/Space-defender)
+📱 Android version: [Space-defender](https://github.com/Rohitkalgutkar1/Space-defender-)
 
 ## 📸 Screenshots
 
